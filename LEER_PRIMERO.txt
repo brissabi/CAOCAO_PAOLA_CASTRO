@@ -1,0 +1,18 @@
+CAOCAO — PLAN ESTRATÉGICO Y CONCEPTUAL
+Autora: Paola Alexandra Castro George
+
+PARA PRESENTAR SIN CONEXIÓN
+1. Extraer el ZIP completo.
+2. Abrir index.html (o CAOCAO_PRESENTACION_INTERACTIVA.html).
+3. Clic en «ABRIR SITIO WEB» para consultar la demo local en demo/index.html.
+4. Flechas: siguiente/anterior; O índice; N notas; F pantalla completa.
+
+PARA PUBLICAR EN VERCEL
+El directorio contiene index.html, vercel.json, media/ y demo/ en su raíz.
+Se puede importar como sitio estático en Vercel desde un repositorio Git, o usar la CLI de Vercel en esta carpeta.
+Una vez publicado como proyecto público, cualquiera con el enlace https://NOMBRE.vercel.app/ y conexión a internet puede ver la presentación sin instalar nada.
+La demostración original estará en https://NOMBRE.vercel.app/demo/.
+El sitio debe permanecer público y sin protección por contraseña para que eso funcione.
+
+NOTA: El formulario web es una simulación académica y no envía reservas.
+La disponibilidad del dominio caocaoasia.com se documentó mediante captura del 30-10-2026, sin registro.
